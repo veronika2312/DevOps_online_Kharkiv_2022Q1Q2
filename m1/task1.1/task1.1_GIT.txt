@@ -1,0 +1,23 @@
+15d0f3a (HEAD -> main, origin/main, origin/develop, develop) HEAD@{0}: merge develop: Fast-forward
+2091cef HEAD@{1}: checkout: moving from develop to main
+15d0f3a (HEAD -> main, origin/main, origin/develop, develop) HEAD@{2}: commit (merge): conflict solved by editing the file
+e2c863e (origin/images, images) HEAD@{3}: merge images: Fast-forward
+739e7ef HEAD@{4}: checkout: moving from develop to develop
+739e7ef HEAD@{5}: checkout: moving from images to develop
+e2c863e (origin/images, images) HEAD@{6}: checkout: moving from styles to images
+737621b (origin/styles, styles) HEAD@{7}: commit: changed index.html
+034030e HEAD@{8}: commit: added styles source
+739e7ef HEAD@{9}: checkout: moving from develop to styles
+739e7ef HEAD@{10}: checkout: moving from images to develop
+e2c863e (origin/images, images) HEAD@{11}: commit: added sources
+9a2d42f HEAD@{12}: checkout: moving from develop to images
+739e7ef HEAD@{13}: checkout: moving from main to develop
+2091cef HEAD@{14}: checkout: moving from images to main
+9a2d42f HEAD@{15}: commit: added images
+739e7ef HEAD@{16}: checkout: moving from images to images
+739e7ef HEAD@{17}: checkout: moving from develop to images
+739e7ef HEAD@{18}: commit: created index.html
+2091cef HEAD@{19}: checkout: moving from main to develop
+2091cef HEAD@{20}: checkout: moving from develop to main
+2091cef HEAD@{21}: checkout: moving from main to develop
+2091cef HEAD@{22}: commit (initial): created readme.txt
