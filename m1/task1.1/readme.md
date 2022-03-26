@@ -5,3 +5,5 @@ Whilst completing of the tasks I’ve created a few branches and filled them wit
 What is DevOps for me?
 
 I used to think that DevOps is a highly-paid position in IT companies where you work only with cloud and hardware storages keeping the global network on its feet (preventing it from the fall). Now I’m aware why DevOps engineer is primarily engineer. As for me, it’s like being a handyman, knowing nuances of development&operating stages of production and merging with a team in order to give the client the most stable and up-to-date product on the market.
+
+The rest of the files for the task 1.1 can be found [here](https://github.com/veronika2312/DevOps_online_Kharkiv_2022Q1Q2/tree/main/m1/task1.1)
