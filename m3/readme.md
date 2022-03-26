@@ -1,6 +1,6 @@
-![Screenshot](screenshotws1.gif)
+![Screenshot](screenshotws1.png)
 
-![Screenshot](screenshotws2.gif)
+![Screenshot2](screenshotws2.png)
 
 MAC-адреса відправника: de:d8:1b:49:3d:3a
 
