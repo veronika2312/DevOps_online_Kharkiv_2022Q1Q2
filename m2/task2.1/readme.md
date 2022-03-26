@@ -24,4 +24,4 @@ Type 1 hypervisors are used in production and the low cost_ _and ease of install
 
 ![VM screenshot](screenshot.png)
 
-Logs for VM tasks can be found [here](https://github.com/veronika2312/DevOps_online_Kharkiv_2022Q1Q2/blob/main/m2/task2.2/DESKTOP-9M8QVPI_Krasilia_VM1/Logs)
+Logs for VM tasks can be found [here](https://github.com/veronika2312/DevOps_online_Kharkiv_2022Q1Q2/blob/main/m2/task2.1/DESKTOP-9M8QVPI_Krasilia_VM1/Logs)
