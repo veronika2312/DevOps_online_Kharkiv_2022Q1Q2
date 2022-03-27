@@ -7,7 +7,7 @@
 4. DNS server settings <br /> 
 ![dns](dns.png)
 
-Additional task was successfuly completed
+Additional task was successfuly completed <br /> 
 ![at](at.png)
 
 
