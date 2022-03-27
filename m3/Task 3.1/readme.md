@@ -1,7 +1,11 @@
-1. Created Enterprise, Data Center, Home Office networks ![Created Enterprise, Data Center, Home Office networks](3.1(1).png)
-2. Assigned IP adresses for Enterprise network ![Assigned IP adresses for Enterprise network](ipforent.png)
-3. Assigned IP adresses for Data Center network ![Assigned IP adresses for Data Center network](ipfordc.png)
-4. Assigned IP adresses for Home Office network ![Assigned IP adresses for Home Office network](ipforho.png)
+1. Created Enterprise, Data Center, Home Office networks 
+![Created Enterprise, Data Center, Home Office networks](3.1(1).png)
+2. Assigned IP adresses for Enterprise network 
+![Assigned IP adresses for Enterprise network](ipforent.png)
+3. Assigned IP adresses for Data Center network 
+![Assigned IP adresses for Data Center network](ipfordc.png)
+4. Assigned IP adresses for Home Office network 
+![Assigned IP adresses for Home Office network](ipforho.png)
 
 [Link to the repository](https://github.com/veronika2312/DevOps_online_Kharkiv_2022Q1Q2/tree/main/m3)
 
